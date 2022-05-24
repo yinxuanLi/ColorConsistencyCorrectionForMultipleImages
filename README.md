@@ -1,0 +1,2 @@
+# ColorConsistencyCorrectionForMultipleImages
+Color Consistency Correction Algorithms For Multiple Images
