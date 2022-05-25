@@ -1,6 +1,6 @@
 # Color Consistency Correction For Multiple Images
 
-* The source code will be available after the corresponding paper is accepted。
+* The source code will be available after the corresponding paper is accepted.
 
 <table rules="none" align="center">
 	<tr>
