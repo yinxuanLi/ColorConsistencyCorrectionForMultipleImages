@@ -5,7 +5,7 @@ Color Consistency Correction Algorithms For Multiple Images
 	<tr>
 		<td>
 			<center>
-				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_01.png" width="60%" />
+				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_01.png" width="100%" />
 				<br/>
 				<font color="AAAAAA">[Input] Aligned Images
 (large amounts of outliers)
@@ -14,7 +14,7 @@ Color Consistency Correction Algorithms For Multiple Images
 		</td>
 		<td>
 			<center>
-				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_02.png" width="60%" />
+				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_02.png" width="100%" />
 				<br/>
 				<font color="AAAAAA">[Output] Corrected Images
 (Without t-distribution)
@@ -23,7 +23,7 @@ Color Consistency Correction Algorithms For Multiple Images
 		</td>
 		<td>
 			<center>
-				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_03.png" width="60%" />
+				<img src="https://github.com/yinxuanLi/ColorConsistencyCorrectionForMultipleImages/blob/main/Docs/display_03.png" width="100%" />
 				<br/>
 				<font color="AAAAAA">[Output] Corrected Images
 (With t-distribution)
